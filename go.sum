@@ -1,0 +1,4 @@
+github.com/carlzhc-go/facilities v0.0.0-20250708032227-9a4d72baf542 h1:ap5EPQUqKGWcuNu528iX2rP45D7pWt54VF6S3cje0nw=
+github.com/carlzhc-go/facilities v0.0.0-20250708032227-9a4d72baf542/go.mod h1:qaGBnp6ACbdxYkDGmEC1V3VJdsu/eBMKvI+mgCMIVQU=
+github.com/carlzhc-go/tlog v0.0.0-20241218033640-7d3786b295f3 h1:x+Ydfl159nxiGQobiDDsA7CXjahANNRBaRtQNpz+IGI=
+github.com/carlzhc-go/tlog v0.0.0-20241218033640-7d3786b295f3/go.mod h1:AfwFMlc/9x2qIhoJ9LEKcU/GXUindcXL1wu+zNMlNeM=
